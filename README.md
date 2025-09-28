@@ -25,7 +25,7 @@ This course takes you through building 7 real-world AI agent projects, from simp
 | 🧠 ReAct Under the Hood | Branch (`project/react-under-hood`) | Understanding reasoning and acting patterns in AI agents |
 | 🔍 [Ice Breaker](https://github.com/emarco177/IceBreaker) | External Repo | Social media profile analyzer |
 | 📝 Medium Analyzer | External Repo | Content analysis and insights generator |
-| 📚 [Documentation Helper](https://github.com/emarco177/documentation-helper) | External Repo | Intelligent documentation assistant |
+| 📚 [Documentation Helper](https://github.com/guyk1971/udemy_langchain_documentation-helper) | External Repo | Intelligent documentation assistant |
 | 🪞 [Reflection Agent](https://github.com/emarco177/langgraph-course/tree/project/reflection-agent) | External Repo | Self-improving agent with reflection and critique capabilities |
 | 🔄 [Reflexion Agent](https://github.com/emarco177/langgraph-course/tree/project/reflexion-agent) | External Repo | Advanced self-correcting agent using reflexion techniques |
 | 🤖 [Agentic RAG](https://github.com/emarco177/langgraph-course/tree/project/agentic-rag) | External Repo | Advanced retrieval-augmented generation system |
